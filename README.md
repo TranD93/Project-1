@@ -15,3 +15,8 @@ Is there a corelation between engine size and emissions?
 Comparison between different countries cars manufacturers and their emission levels.
 
 With the help of python, we have addressed these questions and come to a reasonable conclusion.
+
+Sources of Data:
+Kaggle.com - Fuel consumption dataset, second hand cars Canadian market.
+Github - car manufacturers dataset.
+Additional features in matplotlib - matplotlib documentation and stackoverflow for reference. 
